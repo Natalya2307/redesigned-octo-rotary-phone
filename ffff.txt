@@ -10,3 +10,4 @@ git config --global user.email "natalia.230770@yandex.ru"
 Теперь мы познакомились с такими командами как "git checkout" и "git branch"
 git branch new_branch_name -создаёт новую ветку
 Эта инфа была добавлена в Локальном репозитории
+Эта инфа была в удалённом репозитории
